@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://lift-app-1b8cb-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">190319127494</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDZOTxr4fx_bCArNLT-qdGx6SNURKal9A</string>
+    <string name="google_app_id" translatable="false">1:190319127494:android:027fd689a16c963d01e0c7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDZOTxr4fx_bCArNLT-qdGx6SNURKal9A</string>
+    <string name="google_storage_bucket" translatable="false">lift-app-1b8cb.appspot.com</string>
+    <string name="project_id" translatable="false">lift-app-1b8cb</string>
+</resources>

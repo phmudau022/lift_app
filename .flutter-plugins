@@ -1,0 +1,26 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/phumulamudau/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.2/
+cloud_firestore_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.8.6/
+firebase_auth=/home/phumulamudau/.pub-cache/hosted/pub.dev/firebase_auth-4.14.1/
+firebase_auth_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/firebase_auth_web-5.8.8/
+firebase_core=/home/phumulamudau/.pub-cache/hosted/pub.dev/firebase_core-2.23.0/
+firebase_core_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/firebase_core_web-2.8.1/
+flutter_plugin_android_lifecycle=/home/phumulamudau/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/
+google_maps_flutter=/home/phumulamudau/.pub-cache/hosted/pub.dev/google_maps_flutter-2.5.0/
+google_maps_flutter_android=/home/phumulamudau/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.5.3/
+google_maps_flutter_ios=/home/phumulamudau/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.3.2/
+google_maps_flutter_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.4+2/
+location=/home/phumulamudau/.pub-cache/hosted/pub.dev/location-5.0.3/
+location_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/location_web-4.2.0/
+path_provider=/home/phumulamudau/.pub-cache/hosted/pub.dev/path_provider-2.1.1/
+path_provider_android=/home/phumulamudau/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/
+path_provider_foundation=/home/phumulamudau/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/
+path_provider_linux=/home/phumulamudau/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/home/phumulamudau/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+url_launcher=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher-6.2.1/
+url_launcher_android=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_android-6.2.0/
+url_launcher_ios=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.1/
+url_launcher_linux=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.0/
+url_launcher_macos=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/
+url_launcher_web=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_web-2.2.0/
+url_launcher_windows=/home/phumulamudau/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.0/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843516902022",
+    "project_id": "final-lift-app-bc93b",
+    "storage_bucket": "final-lift-app-bc93b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843516902022:android:427b6e3c2941d79867af07",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBR5c8Gg2iswhFbUUXg-gQxaYfQBc1uRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
